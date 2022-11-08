@@ -10,6 +10,6 @@ El siguiente es un demo de la interfaz a la que se debe llegar (funcionalidades 
 
 Solución:
 
-https://github.com/MisionTIC4b/f_currency_converter
+https://github.com/dxmarquez/converterpage_grupo1_nrc2290
 
 https://youtu.be/EBvO12oKvGI ///video evidencia de la funcionalidad de la herramienta
